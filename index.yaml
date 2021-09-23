@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  pages:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-09-23T17:07:20.550267605+01:00"
+    dependencies:
+    - name: pages-api
+      repository: https://roccohiggins.github.io
+      version: 1.x.x
+    - name: mysql
+      repository: https://roccohiggins.github.io
+      version: 1.x.x
+    description: A Helm chart for Pages Application
+    digest: a0f33d29d733cf0ea0269f135df8684844884780b23eafb2552ea08f9ff65ce1
+    name: pages
+    type: application
+    urls:
+    - pages-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-09-23T17:07:20.548339892+01:00"
